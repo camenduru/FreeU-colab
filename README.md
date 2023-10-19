@@ -20,3 +20,5 @@ https://chenyangsi.top/FreeU/
 ## Output
 
 ![Screenshot 2023-10-19 223731](https://github.com/camenduru/FreeU-colab/assets/54370274/8b210a16-814c-4396-b213-fb2255c80e8f)
+
+![Screenshot 2023-10-19 224027](https://github.com/camenduru/FreeU-colab/assets/54370274/cdad5ba7-ee6d-4510-9dd5-a43f48e809d7)
